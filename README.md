@@ -52,7 +52,7 @@ Para cambiar la clase puedes hacer algo similar a esto:
 ```js 
 <section className={`App ${theme}`}>
 ```
-Esto puede ir sobre todas tus rutas `<Routes>` envolviéndolas. CUando se clicke de inicio ese `theme`será nuestro valor inicial del `useState` y al clickar el botón cambiará.
+Esto puede ir sobre todas tus rutas `<Routes>` envolviéndolas. Cuando se clicke de inicio ese `theme`será nuestro valor inicial del `useState` y al clickar el botón cambiará.
 
 - Si necesitas usar más css, más divs, sections o componentes... siéntete libre de hacerlo, siempre que la aplicación funcione y quede correcta.
 
