@@ -23,7 +23,7 @@ npm install para instalar todas las dependencias.
 │   ├── routes/
 │   │   ├── RoutesApp.jsx
 │   ├── themes/
-│   │   ├── ThemeContext.js
+│   │   ├── ThemeContext.jsx
 │   ├── App.jsx
 │   ├── main.jsx
 │   ├── App.css
